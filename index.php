@@ -74,7 +74,6 @@ include('db.php');
 						<ul class="nav navbar-nav menu__list">
 							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link">Home</a></li>
 							<li class="menu__item"><a href="#about" class="menu__link scroll">About</a></li>
-							<li class="menu__item"><a href="#team" class="menu__link scroll">Team</a></li>
 							<li class="menu__item"><a href="#gallery" class="menu__link scroll">Gallery</a></li>
 							<li class="menu__item"><a href="#rooms" class="menu__link scroll">Rooms</a></li>
 							<li class="menu__item"><a href="#contact" class="menu__link scroll">Contact Us</a></li>
@@ -252,7 +251,7 @@ include('db.php');
 			 		<h4>Restaurant 24Jam</h4>
 			 		<p>Nikmati masakan Kualitas Bintang 5. Anda akan mendapatkan pengalaman mencoba makanan yang tidak akan ditemui diluar sana</p>
 					<p><i class="fa fa-check" aria-hidden="true"></i>Makanan Berkualitas </p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>24-hour Concierge service</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Pelayanan 24Jam</p>
 			 	</div>
 			 </div>
 			<div class="clearfix"> </div>
@@ -262,101 +261,7 @@ include('db.php');
 </div>
 <!--//sevices-->
 <!-- team -->
-<div class="team" id="team">
-	<div class="container">
-			<h3 class="title-w3-agileits title-black-wthree">Meet Our Team</h3>
-			<div id="horizontalTab">
-					<ul class="resp-tabs-list">
-					<li>
-						<img src="images/teams1.jpg" alt=" " class="img-responsive" />
-					</li>
-					<li>
-						<img src="images/teams2.jpg" alt=" " class="img-responsive" />
-					</li>
-					<li>
-						<img src="images/teams3.jpg" alt=" " class="img-responsive" />
-					</li>
-					<li>
-						<img src="images/teams4.jpg" alt=" " class="img-responsive" />
-					</li>
-					</ul>
-					<div class="resp-tabs-container">
-					<div class="tab1">
-						<div class="col-md-6 team-img-w3-agile">
-						</div>
-						<div class="col-md-6 team-Info-agileits">
-							<h4>Lucas Jimenez</h4>
-							<span>Manager</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
-						<div class="social-bnr-agileits footer-icons-agileinfo">
-							<ul class="social-icons3">
-								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
-								<li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li> 
-								<li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
-							</ul>
-						</div>							
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="tab2">
-					<div class="col-md-6 team-img-w3-agile">
-						</div>
-						<div class="col-md-6 team-Info-agileits">
-							<h4>Sarah Connor</h4>
-							<span>Receptionist</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>	
-						<div class="social-bnr-agileits footer-icons-agileinfo">
-							<ul class="social-icons3">
-								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
-								<li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li> 
-								<li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
-							</ul>
-						</div>							
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="tab3">
-						<div class="col-md-6 team-img-w3-agile">
-						</div>
-						<div class="col-md-6 team-Info-agileits">
-							<h4>Ivan Simpson</h4>
-							<span>Manager</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
-						<div class="social-bnr-agileits footer-icons-agileinfo">
-							<ul class="social-icons3">
-								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
-								<li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li> 
-								<li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
-							</ul>
-						</div>							
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="tab4">
-					<div class="col-md-6 team-img-w3-agile">
-						</div>
-						<div class="col-md-6 team-Info-agileits">
-							<h4>Marc Gutierrez</h4>
-							<span>Receptionist</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.Lorem ipsum dolor .</p>
-						<div class="social-bnr-agileits footer-icons-agileinfo">
-							<ul class="social-icons3">
-								<li><a href="#" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="#" class="fa fa-twitter icon-border twitter"> </a></li>
-								<li><a href="#" class="fa fa-google-plus icon-border googleplus"> </a></li> 
-								<li><a href="#" class="fa fa-rss icon-border rss"> </a></li>
-							</ul>
-						</div>							
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					</div>
-			</div>
-	</div>
-</div>
+
 <!-- //team -->
 <!-- Gallery -->
 <section class="portfolio-w3ls" id="gallery">
@@ -726,9 +631,9 @@ include('db.php');
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
 			<h4>Hubungi Kami</h4>
-			<p class="contact-agile1"><strong>Phone :</strong>(0265) 329797</p>
-			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:name@example.com">reservation@tasikmalaya.santika.com</a></p>
-			<p class="contact-agile1"><strong>Address :</strong> Jl. Yudanegara No.57, Yudanagara, Cihideung, Tasikmalaya, Jawa Barat 46121</p>
+			<p class="contact-agile1"><strong>Phone :</strong>+62 21 2358 3800</p>
+			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:name@example.com">info.jakarta@kempinskicom</a></p>
+			<p class="contact-agile1"><strong>Address :</strong>Jl. MH Thamrin No. 1, 10310, Jakarta Indonesia </p>
 																
 			<div class="social-bnr-agileits footer-icons-agileinfo">
 				<ul class="social-icons3">
@@ -745,7 +650,7 @@ include('db.php');
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© Design by <a href="index.php">Santika Tasikmalaya</a> </p>
+		        <p><a>Hotel Indonesia Kempinski Jakarta, Jl. MH Thamrin No. 1, 10310, Jakarta Indonesia +62 21 2358 3800</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
