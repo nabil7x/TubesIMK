@@ -565,9 +565,7 @@ include('db.php');
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								Worth to come again
 								</h4>
-								<p>Sed tempus vestibulum lacus blandit faucibus. 
-									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
-									at imperdiet urna. </p>
+								<p>Pelayanan Memuaskan,namun harga terlalu mahal. </p>
 								<h5>Amie Bublitz</h5>
 								<p>Switzerland</p>
 							</div>
