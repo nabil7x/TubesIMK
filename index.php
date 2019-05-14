@@ -490,14 +490,12 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								Worth to come again
+								<i class="fa fa-star-o" aria-hidden="true"></i>
+								RECOMENDED SEKALI
 								</h4>
-								<p>Sed tempus vestibulum lacus blandit faucibus. 
-									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
-									at imperdiet urna. </p>
-								<h5>Julia Rose</h5>
-								<p>Germany</p>
+								<p>Sangat nyaman dan pelayannya sangat ramah</p>
+								<h5>Abdi Maliki</h5>
+								<p>Indonesia</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -512,16 +510,14 @@ include('db.php');
 								<h4>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star-o" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								Worth to come again
+								<i class="fa fa-star-o" aria-hidden="true"></i>
+								BURUK SEKALI
 								</h4>
-								<p>Sed tempus vestibulum lacus blandit faucibus. 
-									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
-									at imperdiet urna. </p>
-								<h5>Jahnatan Smith</h5>
-								<p>United States</p>
+								<p>Pelayanan sangat buruk tidak sesuai yang saya inginkan</p>
+								<h5>Rifki Rijkulloh</h5>
+								<p>Indonesia</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -538,14 +534,12 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star-o" aria-hidden="true"></i>
-								Worth to come again
+								<i class="fa fa-star" aria-hidden="true"></i>
+								MANTAP
 								</h4>
-								<p>Sed tempus vestibulum lacus blandit faucibus. 
-									Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, 
-									at imperdiet urna. </p>
-								<h5>Rosalind Cloer</h5>
-								<p>Italy</p>
+								<p>Pelayanan sangat memuasakan recomended sekali </p>
+								<h5>Nabil Ramadhan</h5>
+								<p>Indonesia</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -561,13 +555,13 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star-half-full" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								<i class="fa fa-star-o" aria-hidden="true"></i>
-								Worth to come again
+								CUKUP BAGUS
 								</h4>
 								<p>Pelayanan Memuaskan,namun harga terlalu mahal. </p>
-								<h5>Amie Bublitz</h5>
-								<p>Switzerland</p>
+								<h5>Amin Armadi</h5>
+								<p>Indonesia</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
