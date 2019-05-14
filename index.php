@@ -184,28 +184,28 @@ include('db.php');
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_road"></span>
 							<h4 class="cbp-ig-title">MASTER BEDROOMS</h4>
-							<span class="cbp-ig-category"></span>
+							<span class="cbp-ig-category">KEMPINSKI</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_cube"></span>
-							<h4 class="cbp-ig-title">PEMANDANGAN LANSGUNG</h4>
-							<span class="cbp-ig-category">SUN RISE</span>
+							<h4 class="cbp-ig-title">COMFORT PLACE</h4>
+							<span class="cbp-ig-category">KEMPINSKI</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_users"></span>
 							<h4 class="cbp-ig-title">LARGE CAFE</h4>
-							<span class="cbp-ig-category">SUN RISE</span>
+							<span class="cbp-ig-category">KEMPINSKI</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_ticket"></span>
 							<h4 class="cbp-ig-title">WIFI COVERAGE</h4>
-							<span class="cbp-ig-category">SUN RISE</span>
+							<span class="cbp-ig-category">KEMPINSKI</span>
 						</div>
 					</li>
 				</ul>
@@ -233,24 +233,25 @@ include('db.php');
 <div class="advantages">
 	<div class="container">
 		<div class="advantages-main">
-				<h3 class="title-w3-agileits">Our Services</h3>
+				<h3 class="title-w3-agileits">Pelayanan Kami</h3>
 		   <div class="advantage-bottom">
 			 <div class="col-md-6 advantage-grid left-w3ls wow bounceInLeft" data-wow-delay="0.3s">
 			 	<div class="advantage-block ">
 					<i class="fa fa-credit-card" aria-hidden="true"></i>
-			 		<h4>Stay First, Pay After! </h4>
-			 		<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates.</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>Decorated room, proper air conditioned</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>Private balcony</p>
-			 		
+			 		<h4>Istirahat Dahulu, Bayar Nanti! </h4>
+			 		<p>Kami memprioritaskan kenyamanan anda. Fasilitas yang kami tawarkan seperi :</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Ruangan yang nyaman</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Kasur yang nyaman</p>
+			 		<p><i class="fa fa-check" aria-hidden="true"></i>Banyak fasilitas seperti TV,AC,Shower,Bathub,Lemari</p>
+					
 			 	</div>
 			 </div>
 			 <div class="col-md-6 advantage-grid right-w3ls wow zoomIn" data-wow-delay="0.3s">
 			 	<div class="advantage-block">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
-			 		<h4>24 Hour Restaurant</h4>
-			 		<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates.</p>
-					<p><i class="fa fa-check" aria-hidden="true"></i>24 hours room service</p>
+			 		<h4>Restaurant 24Jam</h4>
+			 		<p>Nikmati masakan Kualitas Bintang 5. Anda akan mendapatkan pengalaman mencoba makanan yang tidak akan ditemui diluar sana</p>
+					<p><i class="fa fa-check" aria-hidden="true"></i>Makanan Berkualitas </p>
 					<p><i class="fa fa-check" aria-hidden="true"></i>24-hour Concierge service</p>
 			 	</div>
 			 </div>
