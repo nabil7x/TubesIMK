@@ -39,7 +39,7 @@ include('db.php');
 			<div class="contact-bnr-w3-agile">
 				<ul>
 					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info.jakarta@kempinskicom">info.jakarta@kempinskicom</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+62 21 2358 3800</li>	
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+62 82126945243</li>	
 					<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">
@@ -407,7 +407,7 @@ Kami berbicara bahasa Anda!</p>
 							</div>
 							<div class="price-selet">	
 								<h3><span>Rp. </span>3.600.000,00</h3>						
-								<a href="admin/reservation.php" >Book Now</a>
+								<a href="admin/reservation.php" >Booking Now</a>
 							</div>
 						</div>
 					</div>
@@ -430,7 +430,7 @@ Kami berbicara bahasa Anda!</p>
 							</div>
 							<div class="price-selet">
 								<h3><span>Rp. </span>3.000.000,00</h3>
-								<a href="admin/reservation.php" >Book Now</a>
+								<a href="admin/reservation.php" >Booking Now</a>
 							</div>
 						</div>
 					</div>
@@ -453,7 +453,7 @@ Kami berbicara bahasa Anda!</p>
 							</div>
 							<div class="price-selet">
 								<h3><span>Rp. </span>2.400.000,00</h3>
-								<a href="admin/reservation.php" >Book Now</a>
+								<a href="admin/reservation.php" >Booking Now</a>
 							</div>
 						</div>
 					</div>
@@ -476,7 +476,7 @@ Kami berbicara bahasa Anda!</p>
 							</div>
 							<div class="price-selet">
 								<h3><span>Rp. </span>1.750.000,00</h3>
-								<a href="admin/reservation.php" >Book Now</a>
+								<a href="admin/reservation.php" >Booking Now</a>
 							</div>
 						</div>
 					</div>
@@ -489,7 +489,7 @@ Kami berbicara bahasa Anda!</p>
   <!-- visitors -->
 	<div class="w3l-visitors-agile" >
 		<div class="container">
-                 <h3 class="title-w3-agileits title-black-wthree">Apa Tanggapan Mereka Tentang Kempinski?</h3> 
+                 <h3 class="title-w3-agileits title-black-wthree">Apa Tanggapan Mereka Tentang Hotel Kempinski?</h3> 
 		</div>
 		<div class="w3layouts_work_grids">
 			<section class="slider">
@@ -511,7 +511,7 @@ Kami berbicara bahasa Anda!</p>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								RECOMENDED SEKALI
 								</h4>
-								<p>Assalamualaikum Ukhty , Sangan nyaman sekali tempatnya , dulu saya sempat menginap sebelum aksi pengeboman</p>
+								<p>Assalamualaikum Ukhty , Sangat nyaman sekali tempatnya , dulu saya sempat menginap sebelum aksi pengeboman</p>
 								<h5>Osama Bin Laden</h5>
 								<p>Arab Saudi</p>
 							</div>
@@ -661,7 +661,7 @@ Kami berbicara bahasa Anda!</p>
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p><a>Hotel Indonesia Kempinski Jakarta, Jl. MH Thamrin No. 1, 10310, Jakarta Indonesia +62 21 2358 3800</a> </p>
+		        <p><a>Hotel Indonesia Kempinski Jakarta, Jl. MH Thamrin No. 1, 10310, Jakarta Indonesia +62 82126945243</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
