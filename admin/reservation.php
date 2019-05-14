@@ -129,9 +129,8 @@ include('db.php')
 												<option value selected ></option>
                                                 <option value="Single">Single</option>
                                                 <option value="Double">Double</option>
-												<option value="Triple">Triple</option>
-                                                <option value="Quad">Quad</option>
-												<option value="None">None</option>              
+												<option value="Big">Big</option>
+                                                <option value="Double Big">Double Big</option>              
                                             </select>
                               </div>
 							  <div class="form-group">

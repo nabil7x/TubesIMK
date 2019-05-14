@@ -194,18 +194,18 @@ tr:hover .cut { opacity: 1; }
 		<header>
 			<h1>Information of Guest</h1>
 			<address >
-				<p>SUN RISE HOTEL,</p>
-				<p>New Kalmunani Road,<br>Battialoa,<br>Sri Lanka.</p>
-				<p>(+94) 65 222 44 55</p>
+				<p>Kompenski Hotel,</p>
+				<p>Jl. MH Thamrin No. 1,<br>Jakarta,<br>Indonesia.</p>
+				<p>+62 82126945243</p>
 			</address>
-			<span><img alt="" src="assets/img/sun.png"></span>
+			<span><img alt="" src="assets/img/kompenski.png"></span>
 		</header>
 		<article>
 			<h1></h1>
 			<address >
 				
 				<p><br></p>
-				<p>Coustomer Name  : -  <?php echo $title.$Fname." ".$lname;?><br></p>
+				<p>Customer Name  : -  <?php echo $title.$Fname." ".$lname;?><br></p>
 			</address>
 			<table class="meta">
 				<tr>
@@ -268,7 +268,7 @@ tr:hover .cut { opacity: 1; }
 		<aside>
 			<h1><span >Contact us</span></h1>
 			<div >
-				<p align="center">Email :- info@sunrise.com || Web :- www.sunrise.com || Phone :- +94 65 222 44 55 </p>
+				<p align="center">Email : info.jakarta@kempinskicom|| Web :- www.kempinski.com || Phone :- +62 82126945243 </p>
 			</div>
 		</aside>
 	</body>
