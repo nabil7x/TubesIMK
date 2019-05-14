@@ -374,7 +374,7 @@ include('db.php');
 					<div class="price-block agile">
 						<div class="price-gd-top">
 						<img src="images/r1.jpg" alt=" " class="img-responsive" />
-							<h4>Deluxe Room</h4>
+							<h4>Presidential Suite</h4>
 						</div>
 						<div class="price-gd-bottom">
 							   <div class="price-list">
@@ -383,12 +383,12 @@ include('db.php');
 											<li><i class="fa fa-star" aria-hidden="true"></i></li>
 											<li><i class="fa fa-star" aria-hidden="true"></i></li>
 											<li><i class="fa fa-star" aria-hidden="true"></i></li>
-											<li><i class="fa fa-star-half-full" aria-hidden="true"></i></li>
+											<li><i class="fa fa-star" aria-hidden="true"></i></li>
 									
 								     </ul>
 							</div>
 							<div class="price-selet">	
-								<h3><span>$</span>320</h3>						
+								<h3><span>Rp. </span>3.600.000,00</h3>						
 								<a href="admin/reservation.php" >Book Now</a>
 							</div>
 						</div>
@@ -398,7 +398,7 @@ include('db.php');
 					<div class="price-block agile">
 						<div class="price-gd-top">
 						<img src="images/r2.jpg" alt=" " class="img-responsive" />
-							<h4>Luxury Room</h4>
+							<h4>Diplomatic Suite</h4>
 						</div>
 						<div class="price-gd-bottom">
 							<div class="price-list">
@@ -407,11 +407,11 @@ include('db.php');
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star-half-full" aria-hidden="true"></i></li>
 								</ul>
 							</div>
 							<div class="price-selet">
-								<h3><span>$</span>220</h3>
+								<h3><span>Rp. </span>3.000.000,00</h3>
 								<a href="admin/reservation.php" >Book Now</a>
 							</div>
 						</div>
@@ -421,7 +421,7 @@ include('db.php');
 					<div class="price-block agile">
 						<div class="price-gd-top">
 						<img src="images/r3.jpg" alt=" " class="img-responsive" />
-							<h4>Guest House</h4>
+							<h4>Salon Suite</h4>
 						</div>
 						<div class="price-gd-bottom">
 							<div class="price-list">
@@ -429,12 +429,12 @@ include('db.php');
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
 								</ul>
 							</div>
 							<div class="price-selet">
-								<h3><span>$</span>180</h3>
+								<h3><span>Rp. </span>2.400.000,00</h3>
 								<a href="admin/reservation.php" >Book Now</a>
 							</div>
 						</div>
@@ -444,20 +444,20 @@ include('db.php');
 					<div class="price-block agile">
 						<div class="price-gd-top ">
 							<img src="images/r4.jpg" alt=" " class="img-responsive" />
-							<h4>Single Room</h4>
+							<h4>Normal Suite</h4>
 						</div>
 						<div class="price-gd-bottom">
 							<div class="price-list">
 								<ul>
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
+									<li><i class="fa fa-star" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
 									<li><i class="fa fa-star-o" aria-hidden="true"></i></li>
 								</ul>
 							</div>
 							<div class="price-selet">
-								<h3><span>$</span> 150</h3>
+								<h3><span>Rp. </span>1.750.000,00</h3>
 								<a href="admin/reservation.php" >Book Now</a>
 							</div>
 						</div>
@@ -510,13 +510,13 @@ include('db.php');
 								<h4>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
-								<i class="fa fa-star-o" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								<i class="fa fa-star-o" aria-hidden="true"></i>
-								BURUK SEKALI
+								Tempat Yang Nyaman
 								</h4>
-								<p>Pelayanan sangat buruk tidak sesuai yang saya inginkan</p>
-								<h5>Rifki Rijkulloh</h5>
+								<p>Pelayanan bagus, fasiltas sesuai dengan harga</p>
+								<h5>Stan Lee</h5>
 								<p>Indonesia</p>
 							</div>
 							<div class="clearfix"> </div>
