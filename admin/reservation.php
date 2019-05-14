@@ -6,7 +6,7 @@ include('db.php')
 <head>
       <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>RESERVATION SUNRISE HOTEL</title>
+    <title>Reservation Kempinski Hotel</title>
 	<!-- Bootstrap Styles-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FontAwesome Styles-->
@@ -37,7 +37,7 @@ include('db.php')
 			 <div class="row">
                     <div class="col-md-12">
                         <h1 class="page-header">
-                            RESERVATION <small></small>
+                            Reservation Kempinski Hotel <small></small>
                         </h1>
                     </div>
                 </div> 
@@ -53,17 +53,6 @@ include('db.php')
                         <div class="panel-body">
 						<form name="form" method="post">
                             <div class="form-group">
-                                            <label>Title*</label>
-                                            <select name="title" class="form-control" required >
-												<option value selected ></option>
-                                                <option value="Dr.">Dr.</option>
-                                                <option value="Miss.">Miss.</option>
-                                                <option value="Mr.">Mr.</option>
-                                                <option value="Mrs.">Mrs.</option>
-												<option value="Prof.">Prof.</option>
-												<option value="Rev .">Rev .</option>
-												<option value="Rev . Fr">Rev . Fr .</option>
-                                            </select>
                               </div>
 							  <div class="form-group">
                                             <label>First Name</label>
@@ -83,11 +72,10 @@ include('db.php')
 							   <div class="form-group">
                                             <label>Nationality*</label>
                                             <label class="radio-inline">
-                                                <input type="radio" name="nation"  value="Sri Lankan" checked="">Sri Lankan
+                                                <input type="radio" name="nation"  value="Indonesia" checked="">Indonesia
                                             </label>
                                             <label class="radio-inline">
-                                                <input type="radio" name="nation"  value="Non Sri Lankan ">Non Sri Lankan 
-                                            </label>
+                                                <input type="radio" name="nation"  value="Non Indonesia ">Non Indonesia
                          
                                 </div>
 								<?php
@@ -129,10 +117,10 @@ include('db.php')
                                             <label>Type Of Room *</label>
                                             <select name="troom"  class="form-control" required>
 												<option value selected ></option>
-                                                <option value="Superior Room">SUPERIOR ROOM</option>
-                                                <option value="Deluxe Room">DELUXE ROOM</option>
-												<option value="Guest House">GUEST HOUSE</option>
-												<option value="Single Room">SINGLE ROOM</option>
+                                                <option value="Superior Room">Presidential Suite</option>
+                                                <option value="Deluxe Room">Diplomatic Suite</option>
+												<option value="Guest House">Salon Suite</option>
+												<option value="Single Room">Normal Suite</option>
                                             </select>
                               </div>
 							  <div class="form-group">
@@ -143,26 +131,9 @@ include('db.php')
                                                 <option value="Double">Double</option>
 												<option value="Triple">Triple</option>
                                                 <option value="Quad">Quad</option>
-												<option value="None">None</option>
-                                                
-                                             
+												<option value="None">None</option>              
                                             </select>
                               </div>
-							  <div class="form-group">
-                                            <label>No.of Rooms *</label>
-                                            <select name="nroom" class="form-control" required>
-												<option value selected ></option>
-                                                <option value="1">1</option>
-                                              <!--  <option value="2">2</option>
-												<option value="3">3</option>
-												<option value="4">4</option>
-												<option value="5">5</option>
-												<option value="6">6</option>
-												<option value="7">7</option> -->
-                                            </select>
-                              </div>
-							 
-							 
 							  <div class="form-group">
                                             <label>Meal Plan</label>
                                             <select name="meal" class="form-control"required>

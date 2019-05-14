@@ -72,7 +72,7 @@ include('db.php');
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 					<nav class="menu menu--iris">
 						<ul class="nav navbar-nav menu__list">
-							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link">Home</a></li>
+							<li class="menu__item menu__item--current"><a >Home</a></li>
 							<li class="menu__item"><a href="#about" class="menu__link scroll">About</a></li>
 							<li class="menu__item"><a href="#gallery" class="menu__link scroll">Gallery</a></li>
 							<li class="menu__item"><a href="#rooms" class="menu__link scroll">Rooms</a></li>
@@ -100,7 +100,7 @@ include('db.php');
 									<h3>We know what you love</h3>
 										<p>Welcome to our hotels</p>
 									<div class="agileits_w3layouts_more menu__item">
-				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
+				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">TENTANG KEMPINSKI</a>
 			</div>
 								</div>	
 							</div>
@@ -114,7 +114,7 @@ include('db.php');
 									<h3>Stay with friends & families</h3>
 										<p>Come & enjoy precious moment with us</p>
 									<div class="agileits_w3layouts_more menu__item">
-				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
+				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">TENTANG KEMPINSKI</a>
 			</div>
 								</div>	
 							</div>
@@ -128,7 +128,7 @@ include('db.php');
 								<h3>want luxurious vacation?</h3>
 										<p>Get accommodation today</p>
 									<div class="agileits_w3layouts_more menu__item">
-											<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
+											<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">TENTANG KEMPINSKI</a>
 										</div>
 								</div>
 							</div>
@@ -155,10 +155,27 @@ include('db.php');
 								<div class="modal-content">
 									<div class="modal-header">
 										<button type="button" class="close" data-dismiss="modal">&times;</button>
-										<h4>SUN  <span>RISE</span></h4>
+										<h4>Kempinski</h4>
 										<img src="images/1.jpg" alt=" " class="img-responsive">
-										<h5>We know what you love</h5>
-										<p>Providing guests unique and enchanting views from their rooms with its exceptional amenities, makes Star Hotel one of bests in its kind.Try our food menu, awesome services and friendly staff while you are here.</p>
+										<h5>Tentang Kami</h5>
+										<p>Hotel Indonesia Kempinski Jakarta bertempat di jantung kota Jakarta Pusat Bundaran HI yang terkenal menawarkan akomodasi bintang 5 dengan pemandangan cakrawala kota. Hotel ini memiliki 6 pilihan tempat bersantap, spa yang mewah, dan kolam renang di puncak gedungnya.
+Setiap kamar Hotel Indonesia Kempinski yang luas menampilkan dekorasi bergaya modern dan jendela besar. Semua kamar yang ditata apik dilengkapi TV layar datar serta kamar mandi dalam dengan bathtub dan rainshower.
+
+Anda dapat bersantai menikmati layanan pijat tubuh dalam ruang perawatan pada The Spa di puncak gedung Kempinski, atau berolahraga di pusat kebugaran. Hotel ini juga menyediakan layanan penyewaan mobil BMW dan helikopter atas permintaan. 
+. 
+Anda dapat menikmati hidangan bercitarasa internasional dan Asia yang disajikan di Signatures Restaurant, sedangkan Paulaner Brauhaus menyuguhkan bir buatan sendiri. OKU Japanese Restaurant menawarkan berbagai hidangan Jepang yang memadukan gaya modern dan citarasa tradisional. Sweet Boutique menghidangkan beraneka kue-kue cantik, serta kue khusus yang dibuat sesuai permintaan Anda.
+
+Hotel Indonesia Kempinski Jakarta berjarak 10 menit berkendara dari Monumen Nasional dan 20 menit berkendara dari Kota Tua Batavia. Tempat parkir tersedia gratis.
+
+Jakarta Pusat adalah pilihan tepat buat wisatawan yang suka belanja, belanja baju, dan makanan.
+
+Akomodasi ini juga berada di salah satu kawasan paling favorit di Jakarta! Tamu lebih senang di sini dibandingkan dengan di akomodasi lain di area yang sama.
+
+Pasangan paling suka lokasinya — mereka memberi nilai 9,3 untuk perjalanan dua orang.
+
+Akomodasi ini juga dinilai memiliki harga terbaik di Jakarta! Tamu mendapatkan fasilitas lebih banyak untuk uang yang mereka keluarkan dibandingkan akomodasi lain di kota ini.
+
+Kami berbicara bahasa Anda!</p>
 									</div>
 								</div>
 							</div>
@@ -265,6 +282,7 @@ include('db.php');
 <!-- //team -->
 <!-- Gallery -->
 <section class="portfolio-w3ls" id="gallery">
+
 		 <h3 class="title-w3-agileits title-black-wthree">Our Gallery</h3>
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g1.jpg" class="swipebox"><img src="images/g1.jpg" class="img-responsive" alt="/">
@@ -471,7 +489,7 @@ include('db.php');
   <!-- visitors -->
 	<div class="w3l-visitors-agile" >
 		<div class="container">
-                 <h3 class="title-w3-agileits title-black-wthree">What other visitors experienced</h3> 
+                 <h3 class="title-w3-agileits title-black-wthree">Apa Tanggapan Mereka Tentang Kempinski?</h3> 
 		</div>
 		<div class="w3layouts_work_grids">
 			<section class="slider">
@@ -493,9 +511,9 @@ include('db.php');
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								RECOMENDED SEKALI
 								</h4>
-								<p>Sangat nyaman dan pelayannya sangat ramah</p>
-								<h5>Abdi Maliki</h5>
-								<p>Indonesia</p>
+								<p>Assalamualaikum Ukhty , Sangan nyaman sekali tempatnya , dulu saya sempat menginap sebelum aksi pengeboman</p>
+								<h5>Osama Bin Laden</h5>
+								<p>Arab Saudi</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -512,12 +530,13 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
 								Tempat Yang Nyaman
 								</h4>
-								<p>Pelayanan bagus, fasiltas sesuai dengan harga</p>
-								<h5>Stan Lee</h5>
-								<p>Indonesia</p>
+								<p>Pelayanan bagus, fasiltas sesuai dengan harga , ILY 1300 untuk Kempinski kesayangan warga avenger </p>
+								<h5>Tony Stark</h5>
+								<p>Amerika</p>
 							</div>
 							<div class="clearfix"> </div>
 						</li>
@@ -537,8 +556,8 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								MANTAP
 								</h4>
-								<p>Pelayanan sangat memuasakan recomended sekali </p>
-								<h5>Nabil Ramadhan</h5>
+								<p>Aku tidak akan mengekangmu terserah kemana engakau pergi , tapi abis itu mati </p>
+								<h5>D.N Aidit</h5>
 								<p>Indonesia</p>
 							</div>
 							<div class="clearfix"> </div>
@@ -557,10 +576,10 @@ include('db.php');
 								<i class="fa fa-star" aria-hidden="true"></i>
 								<i class="fa fa-star-half-full" aria-hidden="true"></i>
 								<i class="fa fa-star-o" aria-hidden="true"></i>
-								CUKUP BAGUS
+								CUKUP BAGUS DAN EMPUK
 								</h4>
-								<p>Pelayanan Memuaskan,namun harga terlalu mahal. </p>
-								<h5>Amin Armadi</h5>
+								<p>Kamar untuk Presidential Suite sangat empuk sekali , tempat sangat bersih , saya dan cut tari sangat puas dengan kempinski hotel . </p>
+								<h5>Ariel Peterpan</h5>
 								<p>Indonesia</p>
 							</div>
 							<div class="clearfix"> </div>
@@ -623,7 +642,7 @@ include('db.php');
 		</div>
 		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
 			<h4>Hubungi Kami</h4>
-			<p class="contact-agile1"><strong>Phone :</strong>+62 21 2358 3800</p>
+			<p class="contact-agile1"><strong>Phone :</strong>+62 82126945243</p>
 			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:name@example.com">info.jakarta@kempinskicom</a></p>
 			<p class="contact-agile1"><strong>Address :</strong>Jl. MH Thamrin No. 1, 10310, Jakarta Indonesia </p>
 																
